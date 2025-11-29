@@ -42,7 +42,7 @@ Compact 8-key macro pad built around the XIAO RP2040 DIP module. Features per-ke
 
 ## Project Images
 **Overall Build**  
-![Overall Build](https://github.com/user-attachments/assets/b66d4dcc-fafe-4f73-800e-070322c8dd1f)
+<img width="680" height="576" alt="Screenshot 2025-11-29 at 11 36 38 AM" src="https://github.com/user-attachments/assets/54c05d33-3daf-44bc-b7ee-4c83069c29d1" />
 
 **Schematic**  
 ![Schematic](https://github.com/user-attachments/assets/34ccb595-e5aa-442b-b44b-66e143eb0126)
